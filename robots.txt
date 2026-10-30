@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vista-del-mar--casa-y-bungalows--mancora.vercel.app/sitemap.xml
+Sitemap: https://vista-del-mar-casa-y-bungalows-manc.vercel.app/sitemap.xml
